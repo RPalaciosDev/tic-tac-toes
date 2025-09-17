@@ -11,4 +11,6 @@ public:
 private:
     int _column;
     int _row;
+    int _height = 100;
+    int _width = 100;
 };
